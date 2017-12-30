@@ -1,0 +1,10 @@
+E:\Work\delete\ef\EFDemos-master\context-pooling\bin\Debug\netcoreapp2.0\context-pooling.deps.json
+E:\Work\delete\ef\EFDemos-master\context-pooling\bin\Debug\netcoreapp2.0\context-pooling.runtimeconfig.json
+E:\Work\delete\ef\EFDemos-master\context-pooling\bin\Debug\netcoreapp2.0\context-pooling.runtimeconfig.dev.json
+E:\Work\delete\ef\EFDemos-master\context-pooling\bin\Debug\netcoreapp2.0\context-pooling.dll
+E:\Work\delete\ef\EFDemos-master\context-pooling\bin\Debug\netcoreapp2.0\context-pooling.pdb
+E:\Work\delete\ef\EFDemos-master\context-pooling\obj\Debug\netcoreapp2.0\context-pooling.csproj.CoreCompileInputs.cache
+E:\Work\delete\ef\EFDemos-master\context-pooling\obj\Debug\netcoreapp2.0\context-pooling.AssemblyInfoInputs.cache
+E:\Work\delete\ef\EFDemos-master\context-pooling\obj\Debug\netcoreapp2.0\context-pooling.AssemblyInfo.cs
+E:\Work\delete\ef\EFDemos-master\context-pooling\obj\Debug\netcoreapp2.0\context-pooling.dll
+E:\Work\delete\ef\EFDemos-master\context-pooling\obj\Debug\netcoreapp2.0\context-pooling.pdb

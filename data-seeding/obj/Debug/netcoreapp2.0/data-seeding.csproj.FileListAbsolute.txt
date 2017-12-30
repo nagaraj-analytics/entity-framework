@@ -1,0 +1,11 @@
+E:\Work\delete\ef\EFDemos-master\data-seeding\bin\Debug\netcoreapp2.0\data-seeding.deps.json
+E:\Work\delete\ef\EFDemos-master\data-seeding\bin\Debug\netcoreapp2.0\data-seeding.runtimeconfig.json
+E:\Work\delete\ef\EFDemos-master\data-seeding\bin\Debug\netcoreapp2.0\data-seeding.runtimeconfig.dev.json
+E:\Work\delete\ef\EFDemos-master\data-seeding\bin\Debug\netcoreapp2.0\data-seeding.dll
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.csprojResolveAssemblyReference.cache
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.csproj.CoreCompileInputs.cache
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.AssemblyInfoInputs.cache
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.AssemblyInfo.cs
+E:\Work\delete\ef\EFDemos-master\data-seeding\bin\Debug\netcoreapp2.0\data-seeding.pdb
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.dll
+E:\Work\delete\ef\EFDemos-master\data-seeding\obj\Debug\netcoreapp2.0\data-seeding.pdb

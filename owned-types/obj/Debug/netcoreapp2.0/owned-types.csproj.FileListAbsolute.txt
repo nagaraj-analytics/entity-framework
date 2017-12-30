@@ -1,0 +1,11 @@
+E:\Work\delete\ef\EFDemos-master\owned-types\bin\Debug\netcoreapp2.0\owned-types.deps.json
+E:\Work\delete\ef\EFDemos-master\owned-types\bin\Debug\netcoreapp2.0\owned-types.runtimeconfig.json
+E:\Work\delete\ef\EFDemos-master\owned-types\bin\Debug\netcoreapp2.0\owned-types.runtimeconfig.dev.json
+E:\Work\delete\ef\EFDemos-master\owned-types\bin\Debug\netcoreapp2.0\owned-types.dll
+E:\Work\delete\ef\EFDemos-master\owned-types\bin\Debug\netcoreapp2.0\owned-types.pdb
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.csprojResolveAssemblyReference.cache
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.csproj.CoreCompileInputs.cache
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.AssemblyInfoInputs.cache
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.AssemblyInfo.cs
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.dll
+E:\Work\delete\ef\EFDemos-master\owned-types\obj\Debug\netcoreapp2.0\owned-types.pdb

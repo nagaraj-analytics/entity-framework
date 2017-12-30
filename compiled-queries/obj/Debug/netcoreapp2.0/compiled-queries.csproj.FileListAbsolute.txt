@@ -1,0 +1,11 @@
+E:\Work\delete\ef\EFDemos-master\compiled-queries\bin\Debug\netcoreapp2.0\compiled-queries.deps.json
+E:\Work\delete\ef\EFDemos-master\compiled-queries\bin\Debug\netcoreapp2.0\compiled-queries.runtimeconfig.json
+E:\Work\delete\ef\EFDemos-master\compiled-queries\bin\Debug\netcoreapp2.0\compiled-queries.runtimeconfig.dev.json
+E:\Work\delete\ef\EFDemos-master\compiled-queries\bin\Debug\netcoreapp2.0\compiled-queries.dll
+E:\Work\delete\ef\EFDemos-master\compiled-queries\bin\Debug\netcoreapp2.0\compiled-queries.pdb
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.csprojResolveAssemblyReference.cache
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.csproj.CoreCompileInputs.cache
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.AssemblyInfoInputs.cache
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.AssemblyInfo.cs
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.dll
+E:\Work\delete\ef\EFDemos-master\compiled-queries\obj\Debug\netcoreapp2.0\compiled-queries.pdb
